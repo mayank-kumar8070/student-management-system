@@ -6,15 +6,15 @@ Student Management System written in C programming language. Daffodil Internatio
 </p>
 <h2>Some screnshot.</h2>
 
-![Front Page](http://i.imgur.com/3L7WEOx.jpg)
+![Front Page](https://imgur.com/YC4uE1C)
 <br>
-This is the front page of the program. 
+This is the front page(login Page)of the program.
 <br>
-![Main Page](http://i.imgur.com/mraVXvr.jpg)
+![Main Page](https://imgur.com/2YQPCzo)
 <br>
 It is the main page. Show all the option you can do with it. 
 <br>
-![Add Student Page](http://i.imgur.com/othYdgj.jpg)
+![Add Student Page](https://imgur.com/OiQU1g1)
 <br>
-Add Student page. You can store name, roll, department, sgpa and the cgpa will be calculated automatically. 
+you can Add student, Modify student, Show All student, Indivisual view, Remove student, Change password and logout features .  
 <br>
