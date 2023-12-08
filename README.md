@@ -16,3 +16,5 @@ It is the main page. Show all the option you can do with it.
 <br>
 you can Add student, Modify student, Show All student, Indivisual view, Remove student, Change password and logout features .  
 <br>
+![show all student](
+)
