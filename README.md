@@ -10,7 +10,8 @@ Student Management System written in C programming language. Daffodil Internatio
 <br>
 This is the front page(login Page)of the program.
 <br>
-![Main Page](https://imgur.com/2YQPCzo)
+![Main Page](<img width="959" alt="Screenshot 2023-12-07 221632" src="https://github.com/mayank-kumar8070/student-management-system/assets/67200147/ed3d8eea-a193-4dec-a693-2f41b81f3f1c">
+
 <br>
 It is the main page. Show all the option you can do with it. 
 <br>
