@@ -5,16 +5,15 @@ Student Management System written in C programming language. Daffodil Internatio
 <p>Simple project in c to manage student. You can add student, modify theme, delete theme. There is a different option to view all student and view student individually. 
 </p>
 <h2>Some screnshot.</h2>
+<img width="768" alt="Screenshot 2023-12-07 221645" src="https://github.com/mayank-kumar8070/student-management-system/assets/67200147/73f4639c-000e-49cc-8134-a2351916e136">
 
+![Main Page]
+It is the main page. Show all the option you can do with it. you can Add student, Modify 
+student, Show All student, Indivisual view, Remove student, Change password and logout features.
+<br><img width="848" alt="Screenshot 2023-12-07 221654" src="https://github.com/mayank-kumar8070/student-management-system/assets/67200147/51bb5b82-006b-4cc9-9de2-4152d8e9dcd2">
 
-
-![Main Page](<img width="768" alt="Screenshot 2023-12-07 221645" src="https://github.com/mayank-kumar8070/student-management-system/assets/67200147/210be5dd-e109-4526-ac8d-1da488a0f066">
-
-
-It is the main page. Show all the option you can do with it. 
+![show all student]
+<br><img width="932" alt="Screenshot 2023-12-08 132600" src="https://github.com/mayank-kumar8070/student-management-system/assets/67200147/7632820f-0955-4380-af20-34fbb9c94869">
+.  
 <br>
-![Add Student Page](<img width="848" alt="Screenshot 2023-12-07 221654" src="https://github.com/mayank-kumar8070/student-management-system/assets/67200147/938572bf-ae97-4860-9151-91591d680622">)
-<br>
-you can Add student, Modify student, Show All student, Indivisual view, Remove student, Change password and logout features .  
-<br>
-![show all student](<img width="932" alt="Screenshot 2023-12-08 132600" src="https://github.com/mayank-kumar8070/student-management-system/assets/67200147/28a0b16d-3a9c-4f44-8564-da909ce6516e">)
+
