@@ -12,7 +12,6 @@ Student Management System written in C programming language. Daffodil Internatio
 It is the main page. Show all the option you can do with it. 
 <br>
 ![Add Student Page](<img width="848" alt="Screenshot 2023-12-07 221654" src="https://github.com/mayank-kumar8070/student-management-system/assets/67200147/938572bf-ae97-4860-9151-91591d680622">)
-
 <br>
 you can Add student, Modify student, Show All student, Indivisual view, Remove student, Change password and logout features .  
 <br>
