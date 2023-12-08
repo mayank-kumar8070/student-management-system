@@ -1,8 +1,8 @@
 # student-management-system
 
-Student Management System written in C programming language. Daffodil International University , Spring 2017 m Data Structure lab Project . <br> 
+Student Management System written in C programming language. AKTU University , second year  project 2017  . <br> 
 <h1>Student Management System in C</h1>
-<p>Simple project in c to manage student. You can add student, modify theme, delete theme. There is a different option to view all student and view student individually. 
+<p> It is made for the reduce the workload of the admin department . Student management system where you can a add a details of student like roll no. , department etc. and modify , show all student ,individual view, remove student , change password, and logout features in it.  
 </p>
 <h2>Some screnshot.</h2>
 <img width="768" alt="Screenshot 2023-12-07 221645" src="https://github.com/mayank-kumar8070/student-management-system/assets/67200147/73f4639c-000e-49cc-8134-a2351916e136">
