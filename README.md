@@ -16,5 +16,4 @@ It is the main page. Show all the option you can do with it.
 <br>
 you can Add student, Modify student, Show All student, Indivisual view, Remove student, Change password and logout features .  
 <br>
-![show all student](
-)
+![show all student](<img width="932" alt="Screenshot 2023-12-08 132600" src="https://github.com/mayank-kumar8070/student-management-system/assets/67200147/28a0b16d-3a9c-4f44-8564-da909ce6516e">)
